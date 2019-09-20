@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kalk", "kalk.csproj", "{3DC16852-9EF4-441E-A355-E4819D621BF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DC16852-9EF4-441E-A355-E4819D621BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC16852-9EF4-441E-A355-E4819D621BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC16852-9EF4-441E-A355-E4819D621BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC16852-9EF4-441E-A355-E4819D621BF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D4BE1CE-BEB1-4392-90D5-D3AF3440F465}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\kalk\bin\Debug\kalk.exe.config
+C:\Users\user\source\repos\kalk\bin\Debug\kalk.exe
+C:\Users\user\source\repos\kalk\bin\Debug\kalk.pdb
+C:\Users\user\source\repos\kalk\obj\Debug\kalk.csprojAssemblyReference.cache
+C:\Users\user\source\repos\kalk\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\kalk\obj\Debug\App.g.cs
+C:\Users\user\source\repos\kalk\obj\Debug\kalk_MarkupCompile.cache
+C:\Users\user\source\repos\kalk\obj\Debug\kalk_MarkupCompile.lref
+C:\Users\user\source\repos\kalk\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\kalk\obj\Debug\kalk.g.resources
+C:\Users\user\source\repos\kalk\obj\Debug\kalk.Properties.Resources.resources
+C:\Users\user\source\repos\kalk\obj\Debug\kalk.csproj.GenerateResource.cache
+C:\Users\user\source\repos\kalk\obj\Debug\kalk.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\kalk\obj\Debug\kalk.exe
+C:\Users\user\source\repos\kalk\obj\Debug\kalk.pdb
